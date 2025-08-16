@@ -1,2 +1,2 @@
 # learnGit
-repository to test and learn git and git hub.
+A repository to test and learn git and gitHub. this is a place holer for test grounds.
